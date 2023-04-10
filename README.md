@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Jose Luis Gonzalez and this is my GitHub 😊!</h1>
+<h1 align="center"> Hola soy  Jose Luis Gonzalez y este es mi  GitHub 😊!</h1>
 
 
 
@@ -17,10 +17,9 @@
     Angular
     React
     PHP
-    Linux
     MySql
 
-    💡 I also know about: 
+    💡Experiencia en : 
 
     Prestashop 
     Social networks
