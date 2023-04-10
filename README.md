@@ -4,10 +4,9 @@
 
 <div align="center" style="list-style-type: none">
 
-    💻 My knowledge: 
+    💻 Mi conocimiento: 
 
     Javascript
-    
     Html
     Node.js
     English level: B1
